@@ -1,4 +1,3 @@
-// const { genSalt } = require('bcryptjs');
 const express = require('express');
 const bcrypt = require('bcryptjs');
 const mongoose = require('mongoose');
